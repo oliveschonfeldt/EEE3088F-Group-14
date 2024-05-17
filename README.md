@@ -12,7 +12,7 @@ Software Integration: Code "final.zip" for integrating the sensing module with t
 
 Images: Contains 2D/3D renderings, PCB layouts, and images of hardware for the sensing module.
 
-JLCPCB Order Information: BOM (Bill of Materials) for ist of components required for building the sensing module, and acceptance page for order.
+JLCPCB Order Information: BOM (bill of materials) for list of components required for building the sensing module, and acceptance page for order.
 
 ## Contribution Guidelines
 
