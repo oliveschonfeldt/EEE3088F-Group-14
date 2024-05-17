@@ -6,10 +6,9 @@ This repository contains the design and documentation for the Sensing Subsystem 
 
 ## Contents
 
-    Hardware Design: Contains schematics, PCB layouts, and component datasheets for the sensing module.
-    Software Integration: Guides and code snippets for integrating the sensing module with the microcontroller.
-    Testing Documentation: Procedures and results for testing the functionality of the sensing subsystem.
-    Specifications: Detailed specifications and requirements for the sensing subsystem.
+    KiCad version designs: "v2.zip", "v3.zip", "v4.zip"
+    Software Integration: Code "final.zip" for integrating the sensing module with the microcontroller.
+    Images: Contains 2D/3D renderings, PCB layouts, and images of hardware for the sensing module.
     BOM (Bill of Materials): List of components required for building the sensing module.
 
 ## Contribution Guidelines
