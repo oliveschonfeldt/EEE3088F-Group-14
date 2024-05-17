@@ -9,7 +9,7 @@ This repository contains the design and documentation for the Sensing Subsystem 
     KiCad version designs: "v2.zip", "v3.zip", "v4.zip"
     Software Integration: Code "final.zip" for integrating the sensing module with the microcontroller.
     Images: Contains 2D/3D renderings, PCB layouts, and images of hardware for the sensing module.
-    BOM (Bill of Materials): List of components required for building the sensing module.
+    JLCPCB Order Information: BOM (Bill of Materials) for ist of components required for building the sensing module, and acceptance page for order.
 
 ## Contribution Guidelines
 
